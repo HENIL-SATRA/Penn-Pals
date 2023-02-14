@@ -1,0 +1,269 @@
+{
+  "user": [
+    {
+      "followers": [
+        "Jordi.Cremin55",
+        "admin",
+        "admin"
+      ],
+      "id": "1"
+    },
+    {
+      "followers": [
+        "Jessy.OConner",
+        "Georgianna.Reinger",
+        null
+      ],
+      "id": "2"
+    },
+    {
+      "userid": "Mekhi.Will26",
+      "firstname": "Anissa",
+      "lastname": "Marvin",
+      "email": "Eugene.Bergstrom58@hotmail.com",
+      "phonenum": "452-504-1515",
+      "password": "4_924BWgdRVcKQd",
+      "display_picture": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/861.jpg",
+      "bio": "Dolore pariatur autem eos facere soluta fugiat vero soluta.",
+      "posts": [
+        "3"
+      ],
+      "followers": [
+        "Imogene_Lueilwitz12"
+      ],
+      "following": [
+        "Emmalee.King",
+        "Vito_Koss90"
+      ],
+      "notification": [
+        {
+          "userid": "Blaze_Parisian",
+          "notification_id": "Follow Request",
+          "datetime": 1668121900752,
+          "follower_email": "Amparo.Donnelly@gmail.com"
+        }
+      ],
+      "loginstatus": "true",
+      "id": "3"
+    },
+    {
+      "userid": "Jesus40",
+      "firstname": "Anne",
+      "lastname": "Beer",
+      "email": "Iliana74@yahoo.com",
+      "phonenum": "(803) 956-5382",
+      "password": "gDQHasugPN5Z4pW",
+      "display_picture": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/137.jpg",
+      "bio": "Voluptatem sunt voluptatem.",
+      "posts": [
+        "4"
+      ],
+      "followers": [
+        "Elbert.Kulas95",
+        "Logan87",
+        "Bro"
+      ],
+      "following": [
+        "Jerome87",
+        "Millie.Stracke"
+      ],
+      "notification": [
+        {
+          "userid": "Laurine0",
+          "notification_id": "Follow Request",
+          "datetime": 1668121900752,
+          "follower_email": "Aaron.Feil81@yahoo.com"
+        }
+      ],
+      "loginstatus": "true",
+      "id": "4"
+    },
+    {
+      "userid": "Vickie41",
+      "firstname": "Jordan",
+      "lastname": "Bergstrom",
+      "email": "Elwin.MacGyver33@yahoo.com",
+      "phonenum": "935-346-9507 x761",
+      "password": "hXNxWQYTbRpztdk",
+      "display_picture": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1140.jpg",
+      "bio": "Ea tempore magni.",
+      "posts": [
+        "5"
+      ],
+      "followers": [
+        "Dejah_Bernhard77",
+        "Johnson95"
+      ],
+      "following": [
+        "Elizabeth15",
+        "Ophelia_Zieme"
+      ],
+      "notification": [
+        {
+          "userid": "Robyn_Greenholt89",
+          "notification_id": "Follow Request",
+          "datetime": 1668121900753,
+          "follower_email": "Bart_Feeney@hotmail.com"
+        }
+      ],
+      "loginstatus": "true",
+      "id": "5"
+    },
+    {
+      "userid": "Flo_Franey42",
+      "firstname": "Ervin",
+      "lastname": "Hamill",
+      "email": "Shanelle_Kemmer69@gmail.com",
+      "phonenum": "(486) 244-8318",
+      "password": "K9o6a06H8vhBCZn",
+      "display_picture": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/727.jpg",
+      "bio": "Itaque qui illo placeat doloremque eius quia excepturi animi non.",
+      "posts": [
+        "6"
+      ],
+      "followers": [
+        "Tremaine_Farrell",
+        "Trey76"
+      ],
+      "following": [
+        "Burnice74",
+        "Godfrey.Effertz"
+      ],
+      "notification": [
+        {
+          "userid": "Alec7",
+          "notification_id": "Follow Request",
+          "datetime": 1668121900753,
+          "follower_email": "Bonnie_Keebler@yahoo.com"
+        }
+      ],
+      "loginstatus": "true",
+      "id": "6"
+    },
+    {
+      "following": [
+        "Jana28",
+        "Karianne.Lakin87"
+      ],
+      "id": "7"
+    },
+    {
+      "userid": "jdoe",
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "jdoe@gmail.com",
+      "phonenum": "398.390.8353",
+      "password": "qwerty",
+      "display_picture": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/753.jpg",
+      "bio": "Quo consequuntur quaerat ut reiciendis et repellat veritatis.",
+      "posts": [],
+      "followers": [
+        "Melissa51",
+        "Jazmin34"
+      ],
+      "following": [
+        "Markus.Berge80",
+        "Anya84"
+      ],
+      "notification": [
+        {
+          "userid": "Domenica.Powlowski",
+          "notification_id": "Follow Request",
+          "datetime": 1668129561545,
+          "follower_email": "Viva.Hamill@hotmail.com"
+        }
+      ],
+      "loginstatus": "true",
+      "id": "8"
+    },
+    {
+      "userid": "Fast",
+      "firstname": "fast",
+      "lastname": "last",
+      "email": "fl@gmail.com",
+      "phonenum": "722.688.0247",
+      "password": "Last",
+      "display_picture": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1187.jpg",
+      "bio": "Culpa voluptatem nobis accusamus aut.",
+      "posts": [],
+      "followers": [
+        "Leanna_Koepp",
+        "Effie78"
+      ],
+      "following": [
+        "Victoria_Harvey15",
+        "Jalon1"
+      ],
+      "notification": [
+        {
+          "userid": "Hilda_Ratke",
+          "notification_id": "Follow Request",
+          "datetime": 1668130060282,
+          "follower_email": "Jermaine_Williamson4@yahoo.com"
+        }
+      ],
+      "loginstatus": "true",
+      "id": "9"
+    },
+    {
+      "firstname": "admin",
+      "lastname": "admin",
+      "email": "admin",
+      "userid": "admin",
+      "password": "admin",
+      "id": "irlLokm"
+    }
+  ],
+  "getFeed": [
+    {
+      "likes": [
+        7,
+        10,
+        10
+      ],
+      "id": "1"
+    },
+    {
+      "likes": [
+        10
+      ],
+      "id": "2"
+    },
+    {
+      "likes": [
+        10
+      ],
+      "id": "3"
+    },
+    {
+      "likes": [
+        10
+      ],
+      "id": "4"
+    },
+    {
+      "username": "Rosario.Kling7",
+      "post_type": "visual",
+      "caption": "Aliquid praesentium dolorem vitae omnis aut exercitationem iste.",
+      "likes": [],
+      "comments": [],
+      "tags": [],
+      "userid": 5,
+      "posting": "https://www.wikihow.com/images/thumb/e/e4/Be-Random-Step-6.jpg/aid46489-v4-728px-Be-Random-Step-6.jpg ",
+      "id": "5"
+    },
+    {
+      "username": "Amelie_Oberbrunner",
+      "post_type": "visual",
+      "caption": "Aut sit excepturi vitae explicabo repellat sed libero aut magnam.",
+      "likes": [
+        10
+      ],
+      "comments": [],
+      "tags": [],
+      "userid": 6,
+      "posting": "https://www.wikihow.com/images/thumb/d/d5/Be-Random-Step-9.jpg/aid46489-v4-728px-Be-Random-Step-9.jpg ",
+      "id": "6"
+    }
+  ]
+}
